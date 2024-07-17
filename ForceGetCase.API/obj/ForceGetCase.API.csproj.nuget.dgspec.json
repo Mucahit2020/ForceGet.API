@@ -1,0 +1,362 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.API\\ForceGetCase.API.csproj": {}
+  },
+  "projects": {
+    "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.API\\ForceGetCase.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.API\\ForceGetCase.API.csproj",
+        "projectName": "ForceGetCase.API",
+        "projectPath": "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.API\\ForceGetCase.API.csproj",
+        "packagesPath": "C:\\Users\\mucah\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mucah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.Core\\ForceGetCase.Core.csproj": {
+                "projectPath": "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.Core\\ForceGetCase.Core.csproj"
+              },
+              "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.DataAccess\\ForceGetCase.DataAccess.csproj": {
+                "projectPath": "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.DataAccess\\ForceGetCase.DataAccess.csproj"
+              },
+              "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.Shared\\ForceGetCase.Shared.csproj": {
+                "projectPath": "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.Shared\\ForceGetCase.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.6.3, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.Core\\ForceGetCase.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.Core\\ForceGetCase.Core.csproj",
+        "projectName": "ForceGetCase.Core",
+        "projectPath": "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.Core\\ForceGetCase.Core.csproj",
+        "packagesPath": "C:\\Users\\mucah\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mucah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.DataAccess\\ForceGetCase.DataAccess.csproj": {
+                "projectPath": "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.DataAccess\\ForceGetCase.DataAccess.csproj"
+              },
+              "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.Shared\\ForceGetCase.Shared.csproj": {
+                "projectPath": "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.Shared\\ForceGetCase.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.DataAccess\\ForceGetCase.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.DataAccess\\ForceGetCase.DataAccess.csproj",
+        "projectName": "ForceGetCase.DataAccess",
+        "projectPath": "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.DataAccess\\ForceGetCase.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\mucah\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mucah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.Shared\\ForceGetCase.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.Shared\\ForceGetCase.Shared.csproj",
+        "projectName": "ForceGetCase.Shared",
+        "projectPath": "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.Shared\\ForceGetCase.Shared.csproj",
+        "packagesPath": "C:\\Users\\mucah\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJELER\\ForceGetCase\\ForceGetCase.API\\ForceGetCase.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mucah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

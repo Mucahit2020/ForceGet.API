@@ -1,0 +1,15 @@
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.DataAccess\bin\Debug\net8.0\ForceGetCase.DataAccess.deps.json
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.DataAccess\bin\Debug\net8.0\ForceGetCase.DataAccess.dll
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.DataAccess\bin\Debug\net8.0\ForceGetCase.DataAccess.pdb
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.DataAccess\obj\Debug\net8.0\ForceGetCase.DataAccess.csproj.AssemblyReference.cache
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.DataAccess\obj\Debug\net8.0\ForceGetCase.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.DataAccess\obj\Debug\net8.0\ForceGetCase.DataAccess.AssemblyInfoInputs.cache
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.DataAccess\obj\Debug\net8.0\ForceGetCase.DataAccess.AssemblyInfo.cs
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.DataAccess\obj\Debug\net8.0\ForceGetCase.DataAccess.csproj.CoreCompileInputs.cache
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.DataAccess\obj\Debug\net8.0\ForceGetCase.DataAccess.sourcelink.json
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.DataAccess\obj\Debug\net8.0\ForceGetCase.DataAccess.dll
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.DataAccess\obj\Debug\net8.0\refint\ForceGetCase.DataAccess.dll
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.DataAccess\obj\Debug\net8.0\ForceGetCase.DataAccess.pdb
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.DataAccess\obj\Debug\net8.0\ref\ForceGetCase.DataAccess.dll
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.DataAccess\bin\Debug\net8.0\ForceGetCase.DataAccess.runtimeconfig.json
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.DataAccess\obj\Debug\net8.0\ForceGetCase.DataAccess.genruntimeconfig.cache

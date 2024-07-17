@@ -1,0 +1,13 @@
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Application\bin\Debug\net8.0\ForceGetCase.Application.deps.json
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Application\bin\Debug\net8.0\ForceGetCase.Application.dll
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Application\bin\Debug\net8.0\ForceGetCase.Application.pdb
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Application\obj\Debug\net8.0\ForceGetCase.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Application\obj\Debug\net8.0\ForceGetCase.Application.AssemblyInfoInputs.cache
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Application\obj\Debug\net8.0\ForceGetCase.Application.AssemblyInfo.cs
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Application\obj\Debug\net8.0\ForceGetCase.Application.csproj.CoreCompileInputs.cache
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Application\obj\Debug\net8.0\ForceGetCase.Application.sourcelink.json
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Application\obj\Debug\net8.0\ForceGetCase.Application.dll
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Application\obj\Debug\net8.0\refint\ForceGetCase.Application.dll
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Application\obj\Debug\net8.0\ForceGetCase.Application.pdb
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Application\obj\Debug\net8.0\ref\ForceGetCase.Application.dll
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Application\obj\Debug\net8.0\ForceGetCase.Application.csproj.AssemblyReference.cache

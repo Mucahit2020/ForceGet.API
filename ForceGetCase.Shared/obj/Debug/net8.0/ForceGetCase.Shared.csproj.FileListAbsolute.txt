@@ -1,0 +1,12 @@
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Shared\bin\Debug\net8.0\ForceGetCase.Shared.deps.json
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Shared\bin\Debug\net8.0\ForceGetCase.Shared.dll
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Shared\bin\Debug\net8.0\ForceGetCase.Shared.pdb
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Shared\obj\Debug\net8.0\ForceGetCase.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Shared\obj\Debug\net8.0\ForceGetCase.Shared.AssemblyInfoInputs.cache
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Shared\obj\Debug\net8.0\ForceGetCase.Shared.AssemblyInfo.cs
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Shared\obj\Debug\net8.0\ForceGetCase.Shared.csproj.CoreCompileInputs.cache
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Shared\obj\Debug\net8.0\ForceGetCase.Shared.sourcelink.json
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Shared\obj\Debug\net8.0\ForceGetCase.Shared.dll
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Shared\obj\Debug\net8.0\refint\ForceGetCase.Shared.dll
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Shared\obj\Debug\net8.0\ForceGetCase.Shared.pdb
+C:\PROJELER\ForceGetCase\ForceGetCase.API\ForceGetCase.Shared\obj\Debug\net8.0\ref\ForceGetCase.Shared.dll
